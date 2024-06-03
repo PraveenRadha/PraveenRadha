@@ -19,7 +19,7 @@
 - 🛠️ Software Development
 
 ## 📫 How to reach me ...
-- 📧 Email: praveen@example.com
+- 📧 Email: rpaveen2k4@gmail.com
 - 💬 LinkedIn: [PraveenRadha](https://www.linkedin.com/in/praveenradha)
 - 🐦 Twitter: [@PraveenRadha](https://twitter.com/PraveenRadha)
 
