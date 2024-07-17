@@ -24,6 +24,6 @@
 - He/Him/His
 
 ## ⚡ Fun fact: ...
-- 🏆 I love participating in hackathons!
+- 🏆 I love participating in CODING CONTEST!
 
 
